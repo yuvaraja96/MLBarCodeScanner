@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383818892694",
+    "firebase_url": "https://ml-kit-codelab-89342.firebaseio.com",
+    "project_id": "ml-kit-codelab-89342",
+    "storage_bucket": "ml-kit-codelab-89342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383818892694:android:90337d6371e9e79d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.barcode_scanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383818892694-loeqk5h9qo2boerbp9eevhg0d74pfehs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.barcode_scanning",
+            "certificate_hash": "509cb3fe04856cedbe46a373cd3171258fdd9dec"
+          }
+        },
+        {
+          "client_id": "383818892694-h55let9rpmc3lhj8o5of0bhr6hf0ekjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhPp1dH7ft7zL145VDgggUG5Mjte9gig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383818892694-h55let9rpmc3lhj8o5of0bhr6hf0ekjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
